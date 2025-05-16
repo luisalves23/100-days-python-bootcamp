@@ -1,6 +1,7 @@
 # Ignora arquivos e pastas do PyCharm
 .idea/
 *.iml
+.venv
 
 # Ignora arquivos de sistema
 .DS_Store
