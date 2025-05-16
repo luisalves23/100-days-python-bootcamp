@@ -1,0 +1,7 @@
+# Ignora arquivos e pastas do PyCharm
+.idea/
+*.iml
+
+# Ignora arquivos de sistema
+.DS_Store
+Thumbs.db
